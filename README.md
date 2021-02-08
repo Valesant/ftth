@@ -1,2 +1,5 @@
 # FTTH
-Here we'll try to edit and save de UI and the worker of the FTTH project
+UI.py is the User Interface
+workerrftth.py il the parallel process launched by the "Valider" button
+chromedriver.exe is the webdriver
+
